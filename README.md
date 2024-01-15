@@ -7,16 +7,18 @@
 * was muss man zum automatisierten hochladen beachten? muss man vorher einträge bearbeiten um zugriff bekommen?
 * wie beachten wir das wikidata vokabular? labes descriptions, aliases, claims
 * sollten uns für einen Datensatz entscheiden mit welchem wir ein beispiel durcharbeiten (Professor Dr. Alexander Goesmann versuchen laufende Projekte in Wikidata einzufügen https://gepris.dfg.de/gepris/person/188428736)
+* wie kann man die q-id effizient suchen? mit namen auf wikidata?
+*   - wie ermitteln wir die exakte person? Anke Becker
 
 ## Schritte:
-1. Urls/IDS herausfinden em die Apis abzurufen
-1. Api der Website abrufen (mit python on einem Jupyter Notebook) brauchen request und/oder Beautiful Soup oder website parsen
-2. Spezifizierung welche Daten abgerufen werden(welche personenbezogenen daten, wer hat bei wem promoviert, welche artikel wurden von der Person pupliziert)
-3. wie werden daten gespeichert (daten in xml beschaffen und in json umwandeln), welche formate sind mit wikidata kompatibel(am besten json)
-4. Daten bereiinigen/cleanen (fehlende oder fehlerhafte daten entfernen)
-5. wikidata einträge der autoren automatisiert findbar machen (ids beschaffen)
-6. Wikidata daten herunterladen
-7. datenabgleich unsere daten/Wikidata daten (Wikidata json export service)
-8. löschen von dublikaten 
-9. automatisiertes hochladen der daten welche in wikidata nicht existieren (über Api zugriff) welche tool kann man dafür verwenden? (wikitools bibliothek?), muss man vorher schreibzugriff beatragen?
+1. Urls/IDS herausfinden em die Apis abzurufen   
+2. Api der Website abrufen (mit python on einem Jupyter Notebook) brauchen request und/oder Beautiful Soup oder website parsen
+3. Spezifizierung welche Daten abgerufen werden(welche personenbezogenen daten, wer hat bei wem promoviert, welche artikel wurden von der Person pupliziert)
+4. wie werden daten gespeichert (daten in xml beschaffen und in json umwandeln), welche formate sind mit wikidata kompatibel(am besten json)
+5. Daten bereiinigen/cleanen (fehlende oder fehlerhafte daten entfernen)
+6. wikidata einträge der autoren automatisiert findbar machen (ids beschaffen)
+7. Wikidata daten herunterladen
+8. datenabgleich unsere daten/Wikidata daten (Wikidata json export service)
+9. löschen von dublikaten 
+10. automatisiertes hochladen der daten welche in wikidata nicht existieren (über Api zugriff) welche tool kann man dafür verwenden? (wikitools bibliothek?), muss man vorher schreibzugriff beatragen?
 
