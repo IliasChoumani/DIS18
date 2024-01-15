@@ -11,17 +11,16 @@
     - wie ermitteln wir die exakte person? Anke Becker
 * wie kann man die labels-ids (P31) ermitteln?
 * am Beispiel von GEPRIS project ID (P4870) = wie können wir Projekte, an denen der Forscher teilgenommen hat, in wikidata anlegen oer finden?
-* bei den 10-Beispiel Autoren, welche Kriterien noch passend außer Projekte?
 
 ## Schritte:
-1. Urls/IDS herausfinden em die Apis abzurufen   
-2. Api der Website abrufen (mit python on einem Jupyter Notebook) brauchen request und/oder Beautiful Soup oder website parsen
-3. Spezifizierung welche Daten abgerufen werden(welche personenbezogenen daten, wer hat bei wem promoviert, welche artikel wurden von der Person pupliziert)
-4. wie werden daten gespeichert (daten in xml beschaffen und in json umwandeln), welche formate sind mit wikidata kompatibel(am besten json)
-5. Daten bereiinigen/cleanen (fehlende oder fehlerhafte daten entfernen)
-6. wikidata einträge der autoren automatisiert findbar machen (ids beschaffen)
-7. Wikidata daten herunterladen
-8. datenabgleich unsere daten/Wikidata daten (Wikidata json export service)
-9. löschen von dublikaten 
-10. automatisiertes hochladen der daten welche in wikidata nicht existieren (über Api zugriff) welche tool kann man dafür verwenden? (wikitools bibliothek?), muss man vorher schreibzugriff beatragen?
+1. Urls/IDS herausfinden em die Apis abzurufen
+3. Api der Website abrufen (mit python on einem Jupyter Notebook) brauchen request und/oder Beautiful Soup oder website parsen
+4. Spezifizierung welche Daten abgerufen werden(welche personenbezogenen daten, wer hat bei wem promoviert, welche artikel wurden von der Person pupliziert)
+5. wie werden daten gespeichert (daten in xml beschaffen und in json umwandeln), welche formate sind mit wikidata kompatibel(am besten json)
+6. Daten bereiinigen/cleanen (fehlende oder fehlerhafte daten entfernen)
+7. wikidata einträge der autoren automatisiert findbar machen (ids beschaffen)
+8. Wikidata daten herunterladen
+9. datenabgleich unsere daten/Wikidata daten (Wikidata json export service)
+10. löschen von dublikaten 
+11. automatisiertes hochladen der daten welche in wikidata nicht existieren (über Api zugriff) welche tool kann man dafür verwenden? (wikitools bibliothek?), muss man vorher schreibzugriff beatragen?
 
