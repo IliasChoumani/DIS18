@@ -8,7 +8,7 @@
 * wie beachten wir das wikidata vokabular? labes descriptions, aliases, claims
 * sollten uns für einen Datensatz entscheiden mit welchem wir ein beispiel durcharbeiten (Professor Dr. Alexander Goesmann versuchen laufende Projekte in Wikidata einzufügen https://gepris.dfg.de/gepris/person/188428736)
 * wie kann man die q-id effizient suchen? mit namen auf wikidata?
-*   - wie ermitteln wir die exakte person? Anke Becker
+    - wie ermitteln wir die exakte person? Anke Becker
 
 ## Schritte:
 1. Urls/IDS herausfinden em die Apis abzurufen   
