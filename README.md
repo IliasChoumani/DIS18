@@ -24,3 +24,6 @@
 10. löschen von dublikaten 
 11. automatisiertes hochladen der daten welche in wikidata nicht existieren (über Api zugriff) welche tool kann man dafür verwenden? (wikitools bibliothek?), muss man vorher schreibzugriff beatragen?
 
+Infos aus dem Meeting:
+https://www.wikidata.org/wiki/Q98380344
+https://www.wikidata.org/wiki/Property:P4870
