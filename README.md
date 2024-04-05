@@ -2,7 +2,7 @@
 
 * Sollen daten zu 10 Autoren hereusarbeiten und in Wikidata findbar machen Autoren: 1. Konrad U. Förstner, 2. Anke Becker, 3. Jochen Blom, 4. Peer Bork, 5. Thomas Clavel, 6. Marius Dieckmann, 7. Alexander Goesmann, 8. Barbara Götz, 9. Thomas Gübitz, 10. Franziska Hufsky  
 * Gibt es Datenschutzgrundsätze welche man beachten muss?
-* Muss man die Daten in verschienen Sprachen Bereitstellen? bsp: https://www.wikidata.org/wiki/Q18744528
+* Muss man die Daten in verschienen Sprachen Bereitstellen? (er meinte auf englisch aber die projekte sind auf deutsch)bsp: https://www.wikidata.org/wiki/Q18744528
 * Was machen wir bei häufigen Namen? wie stellen wir sicher das die personen unsere sind? (Anhand von Wissenschaftlichen ids?)
 * was muss man zum automatisierten hochladen beachten? muss man vorher einträge bearbeiten um zugriff bekommen?
 * wie beachten wir das wikidata vokabular? labes descriptions, aliases, claims
