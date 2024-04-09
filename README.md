@@ -41,7 +41,6 @@ https://www.wikidata.org/wiki/Property:P4870
 * ist der Wikidata JSON Export Service sinvoll?
 * wie legen wir die projekte am besten an (gepris projekt id P4870)
 * solltle man für jedes projekt eine entität anlegen? wenn ja wie?
-* 
 
 
   
