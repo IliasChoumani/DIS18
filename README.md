@@ -27,3 +27,21 @@
 Infos aus dem Meeting:
 https://www.wikidata.org/wiki/Q98380344
 https://www.wikidata.org/wiki/Property:P4870
+
+## Anmerkungen:
+* haben Programm das eine Liste mit QID ermittelt, welche den Autorennamen beinhaltet.
+* halb automatisiertes Programm, welches auswählt, ob es sich bei QIDs um Personen handelt.
+* wenn es mehrere gleichnamige personen gibt wird per Input befehl die richtige und für und relevante ausgewählt
+* diese personen werden in einem dictonary mit dem label und description gespeichert. 
+* Wikidata einträge als Json export File gedownloadet
+
+## Fragen: 
+* ist es sinvoll die json dateien mit unseren projekten zu aktuallisieren?(kann man diese dann hochladen und die wikidata website so ändern?)
+* wikitools?
+* ist der Wikidata JSON Export Service sinvoll?
+* wie legen wir die projekte am besten an (gepris projekt id P4870)
+* solltle man für jedes projekt eine entität anlegen? wenn ja wie?
+* 
+
+
+  
