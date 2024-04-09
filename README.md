@@ -9,7 +9,7 @@
 * sollten uns für einen Datensatz entscheiden mit welchem wir ein beispiel durcharbeiten (Professor Dr. Alexander Goesmann versuchen laufende Projekte in Wikidata einzufügen https://gepris.dfg.de/gepris/person/188428736)
 * wie kann man die q-id effizient suchen? mit namen auf wikidata?
     - wie ermitteln wir die exakte person? Anke Becker
-* wie kann man die labels-ids (P31) ermitteln? = Q5 (Personen)
+* wie kann man die labels-ids (P31) ermitteln? = Q5 (Personen) p106 (Occupation)
 * am Beispiel von GEPRIS project ID (P4870) = wie können wir Projekte, an denen der Forscher teilgenommen hat, in wikidata anlegen oer finden?
 
 ## Schritte:
