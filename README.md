@@ -43,8 +43,9 @@ https://www.wikidata.org/wiki/Property:P4870
 * solltle man für jedes projekt eine entität anlegen? wenn ja wie?
 
 ## TO Do:
-Repo Aufräumen 
-json gepris porjekte in json wikidata datei einfügen. Wie lädt man die json datei wieder hoch. 
+Repo Aufräumen
+json gepris porjekte in json wikidata datei einfügen. 
+Wie lädt man die json datei wieder hoch. 
 
 
   
