@@ -17,7 +17,11 @@
           }
         ],
 
-      Wie kommmen wir andie daten zum befüllen des json blocks? Hash, id
-      Wie können wir mithilfe der Gepris projekt ids die richtigen artikel finden? (um so kürzer desto mehr einträge finden wir)
-      wie können wir sichststellen das es sich bei dem suchbegriff auch wirklich um die GEPRIS project ID  handelt? (beispiel suche nach 5413368 und geo names id)
-      kann man identifier in die suche mit einbeziehen? (kann man nach dem search term suchen und angeben das dieser den identifier GEPRIS project ID hat?)
+      Wie kommmen wir andie daten zum befüllen des json blocks? Hash, id  
+      Wie können wir mithilfe der Gepris projekt ids die richtigen artikel finden? (um so kürzer desto mehr einträge finden wir)  
+      wie können wir sichststellen das es sich bei dem suchbegriff auch wirklich um die GEPRIS project ID  handelt? (beispiel suche nach 5413368 und geo names id)  
+      kann man identifier in die suche mit einbeziehen? (kann man nach dem search term suchen und angeben das dieser den identifier GEPRIS project ID hat?)  
+      was machen wir mit einträgen welche kein label haben?  
+      müssen sich die einträge gegenseitig verbinden (das beide seiten aufeinander zeigen)  
+
+      wie erstellen wir die fehlenden seiten einträge? Sollen wir lokal json seiten erstellen und diese hochladen? 
