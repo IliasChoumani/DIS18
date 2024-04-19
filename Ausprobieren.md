@@ -26,3 +26,4 @@
 
       wie erstellen wir die fehlenden seiten einträge? Sollen wir lokal json seiten erstellen und automatisiert diese hochladen? 
       welche möglichkeiten haben wir wie wir die seiten erstellen und hochladen?
+      müssen wir förstner json runterladen aktualisieren und wieder hochladen oder nur unsere neuen json dateien hochladen und vorhandene aktuallisieren oder neue seiten anlegen
