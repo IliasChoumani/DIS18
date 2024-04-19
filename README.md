@@ -54,5 +54,8 @@ https://www.wikidata.org/wiki/Property:P4870
 json gepris porjekte in json wikidata dateien einfügen.  
 Wie lädt man die json datei wieder hoch?
 
+### Bis zum gespräch
+über hochladen und erstellen der einzelen json seiten der projekte informieren
+
 
   
