@@ -24,4 +24,5 @@
       was machen wir mit einträgen welche kein label haben?  
       müssen sich die einträge gegenseitig verbinden (das beide seiten aufeinander zeigen)  
 
-      wie erstellen wir die fehlenden seiten einträge? Sollen wir lokal json seiten erstellen und diese hochladen? 
+      wie erstellen wir die fehlenden seiten einträge? Sollen wir lokal json seiten erstellen und automatisiert diese hochladen? 
+      welche möglichkeiten haben wir wie wir die seiten erstellen und hochladen?
