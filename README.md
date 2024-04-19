@@ -43,6 +43,14 @@ https://www.wikidata.org/wiki/Property:P4870
 * solltle man für jedes projekt eine entität anlegen? wenn ja wie?
 
 ## TO Do:
+* abfrage gestellten ob das projekt schon existiert
+* wenn das projekt da ist brauchen wir die qid, welche in liste gespeichert wird
+* wenn nicht da ist müssen wir es anlegen (wie automatisiert?) und neue qid in liste speichern
+* dann haben wir eine liste mit allen projekten und deren qids in wikidata
+
+  
+* damit können wir dann unsere json dateien der autoren aktualisieren
+* diese können wir dann hochladen
 json gepris porjekte in json wikidata dateien einfügen.  
 Wie lädt man die json datei wieder hoch?
 
