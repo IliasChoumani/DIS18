@@ -43,7 +43,7 @@ https://www.wikidata.org/wiki/Property:P4870
 * solltle man für jedes projekt eine entität anlegen? wenn ja wie?
 
 ## TO Do:
-* abfrage gestellten ob das projekt schon existiert
+* abfrage gestellten ob das projekt schon existiert (suchen nach der gepris projekt id und speichern alle artikel die wir finden)
 * wenn das projekt da ist brauchen wir die qid, welche in liste gespeichert wird
 * wenn nicht da ist müssen wir es anlegen (wie automatisiert?) und neue qid in liste speichern
 * dann haben wir eine liste mit allen projekten und deren qids in wikidata
