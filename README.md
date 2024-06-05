@@ -36,26 +36,24 @@ https://www.wikidata.org/wiki/Property:P4870
 * Wikidata einträge als Json export File gedownloadet
 
 ## Fragen: 
-* ist es sinvoll die json dateien mit unseren projekten zu aktuallisieren?(kann man diese dann hochladen und die wikidata website so ändern?)
+* ist es sinvoll die json dateien von wikidata mit unseren projekten zu aktuallisieren?(kann man diese dann hochladen und die wikidata website so ändern?) denke es ist sinvoller unsere json dateien direkt in wikidata hochzuladen.  
 * wikitools?
-* ist der Wikidata JSON Export Service sinvoll?
+* ist der Wikidata JSON Export Service sinvoll? denek nicht, da wir die wikidata seiten nicht zwanghaft als json benötigen um neue daten hochzuladen. 
 * wie legen wir die projekte am besten an (gepris projekt id P4870)
 * solltle man für jedes projekt eine entität anlegen? wenn ja wie?
 
 ## TO Do:
-* abfrage gestellten ob das projekt schon existiert (suchen nach der gepris projekt id und speichern alle artikel die wir finden)
-* wenn das projekt da ist brauchen wir die qid, welche in liste gespeichert wird
-* wenn nicht da ist müssen wir es anlegen (wie automatisiert?) und neue qid in liste speichern
-* dann haben wir eine liste mit allen projekten und deren qids in wikidata
-
+* abfrage gestellten ob das projekt schon existiert (suchen nach der gepris projekt id und speichern alle artikel die wir finden) (glaube es existiert noch kein projekt)
+* wenn das projekt da ist brauchen wir die qid, welche in liste gespeichert wird (glaube es existiert noch kein projekt)
+    
+* wenn nicht da ist müssen wir es anlegen (wie automatisiert?) und neue qid in liste speichern!!! Oder das Projekt der person hinzufügen und erstmal keine eigene seite fürs projekt erstellen. (aber denke eigene seite sinvoller, siehe gepris project id projekte)
+* dann haben wir eine liste mit allen projekten und deren qids in wikidata  
+* diese können wir dann der person hinzufügen.
   
-* damit können wir dann unsere json dateien der autoren aktualisieren
-* diese können wir dann hochladen
-json gepris porjekte in json wikidata dateien einfügen.  
-Wie lädt man die json datei wieder hoch?
-
 ### Bis zum gespräch
-über hochladen und erstellen der einzelen json seiten der projekte informieren
-
+*wie sehe ich ob der bot genemigt wurde?
+*sollte ich die projekte als eigenständige seiten erstellen oder nur dem autor hinzufügen. (denke erstmal eigene seiten der Projekte erstellen)
+*diese projektseiten kann man dann mit den personenseiten verknüpfen und die projekte in die personenseiten intigrieren. (dann haben wir unsere ersten aktualierten wikidata personeneinträge)
+*Weiter ausbauen (promovierung weiter ausbauen)
 
   
