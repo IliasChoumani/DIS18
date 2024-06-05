@@ -35,25 +35,29 @@ https://www.wikidata.org/wiki/Property:P4870
 * diese personen werden in einem dictonary mit dem label und description gespeichert. 
 * Wikidata einträge als Json export File gedownloadet
 
-## Fragen: 
+## Fragen:
 * ist es sinvoll die json dateien von wikidata mit unseren projekten zu aktuallisieren?(kann man diese dann hochladen und die wikidata website so ändern?) denke es ist sinvoller unsere json dateien direkt in wikidata hochzuladen.  
 * wikitools?
 * ist der Wikidata JSON Export Service sinvoll? denek nicht, da wir die wikidata seiten nicht zwanghaft als json benötigen um neue daten hochzuladen. 
-* wie legen wir die projekte am besten an (gepris projekt id P4870)
-* solltle man für jedes projekt eine entität anlegen? wenn ja wie?
+* wie legen wir die projekte am besten an (gepris projekt id P4870)  
+
+<br>
+
+* solltle man erstmal für jedes projekt eine entität anlegen? oder erstmal die projekte den personen hinzufügen? (denke erstmal eigene seiten der Projekte erstellen)
+* wie sehe ich ob der bot genemigt wurde?
+* sollte man einen neuen abschnitt für projekte hinzufügen, gibt es einen p für projeknamen, oder soll man nur die gepris projekt id den jeweiligen personen zuordnen?
+
 
 ## TO Do:
 * abfrage gestellten ob das projekt schon existiert (suchen nach der gepris projekt id und speichern alle artikel die wir finden) (glaube es existiert noch kein projekt)
 * wenn das projekt da ist brauchen wir die qid, welche in liste gespeichert wird (glaube es existiert noch kein projekt)
-    
-* wenn nicht da ist müssen wir es anlegen (wie automatisiert?) und neue qid in liste speichern!!! Oder das Projekt der person hinzufügen und erstmal keine eigene seite fürs projekt erstellen. (aber denke eigene seite sinvoller, siehe gepris project id projekte)
-* dann haben wir eine liste mit allen projekten und deren qids in wikidata  
-* diese können wir dann der person hinzufügen.
-  
-### Bis zum gespräch
-*wie sehe ich ob der bot genemigt wurde?
-*sollte ich die projekte als eigenständige seiten erstellen oder nur dem autor hinzufügen. (denke erstmal eigene seiten der Projekte erstellen)
-*diese projektseiten kann man dann mit den personenseiten verknüpfen und die projekte in die personenseiten intigrieren. (dann haben wir unsere ersten aktualierten wikidata personeneinträge)
-*Weiter ausbauen (promovierung weiter ausbauen)
+* wenn die Person nicht existiert müssen wir einen wikidata eintrag für sie anlegen (glaube aber existieren alle)
+
+* wenn nicht da ist müssen wir es anlegen (wie automatisiert?) und neue qid in liste speichern!!! (Oder das Projekt der person hinzufügen und erstmal keine eigene seite fürs projekt erstellen.) (aber denke eigene seite sinvoller, siehe gepris project id projekte, am besten auch direkt angeben welche person zum projekt gehört)
+* dann haben wir eine liste mit allen projekten, deren qids in wikidata und die personen ebenfalls schon in wikidata 
+* diese können wir dann der personenseite hinzufügen.
+
+* diese projektseiten kann man dann mit den personenseiten verknüpfen und die projekte in die personenseiten intigrieren. (dann haben wir unsere ersten aktualierten wikidata personeneinträge)  
+* Weiter ausbauen (promovierung weiter ausbauen)
 
   
