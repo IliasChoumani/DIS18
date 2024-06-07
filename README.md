@@ -28,6 +28,16 @@ Infos aus dem Meeting:
 https://www.wikidata.org/wiki/Q98380344
 https://www.wikidata.org/wiki/Property:P4870
 
+____________________________________________
+
+1. Überprüfen, ob der Forscher angelegt ist oder nicht, wenn nicht anlegen
+2. Gesammelte Informationen (Gepris, Orcid etc.) in einheitliches Format bringen
+   --> JSON mit allen Projekten (Projekt Name & Projekt Link) = zum Überprüfen, ob Projekt existiert und Anlegen der Projekte
+   --> JSON mit allen Projekt Links und beteiligten Forschern = für die Verknüpfung zwischen Projekt und Forscher
+3. Überprüfen, ob Projekt bereits auf wikidata existiert
+   --> Bei Nicht-Existenz: Projekt neu anlegen
+4. Projekte mit den Forschern verknüpfen
+
 ## Anmerkungen:
 * haben Programm das eine Liste mit QID ermittelt, welche den Autorennamen beinhaltet.
 * halb automatisiertes Programm, welches auswählt, ob es sich bei QIDs um Personen handelt.
