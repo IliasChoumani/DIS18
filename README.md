@@ -38,6 +38,7 @@ ____________________________________________
    --> Bei Nicht-Existenz: Projekt neu anlegen
 4. Projekte mit den Forschern verknüpfen
 
+
 ## Anmerkungen:
 * haben Programm das eine Liste mit QID ermittelt, welche den Autorennamen beinhaltet.
 * halb automatisiertes Programm, welches auswählt, ob es sich bei QIDs um Personen handelt.
@@ -46,16 +47,10 @@ ____________________________________________
 * Wikidata einträge als Json export File gedownloadet
 
 ## Fragen:
-* ist es sinvoll die json dateien von wikidata mit unseren projekten zu aktuallisieren?(kann man diese dann hochladen und die wikidata website so ändern?) denke es ist sinvoller unsere json dateien direkt in wikidata hochzuladen.  
-* wikitools?
-* ist der Wikidata JSON Export Service sinvoll? denek nicht, da wir die wikidata seiten nicht zwanghaft als json benötigen um neue daten hochzuladen. 
-* wie legen wir die projekte am besten an (gepris projekt id P4870)  
 
-<br>
-
-* solltle man erstmal für jedes projekt eine entität anlegen? oder erstmal die projekte den personen hinzufügen? (denke erstmal eigene seiten der Projekte erstellen)
-* wie sehe ich ob der bot genemigt wurde?
 * sollte man einen neuen abschnitt für projekte hinzufügen, gibt es einen p für projeknamen, oder soll man nur die gepris projekt id den jeweiligen personen zuordnen?
+* Wie sehen wir, ob wir die Berechtigungen für den Bot haben? Dauert es einfach nur lange?
+* Personen (Alexander Goesmann) haben über 250 Projekte - sollen alle hochgeladen werden?
 
 
 ## TO Do:
