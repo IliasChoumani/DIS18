@@ -51,6 +51,8 @@ ____________________________________________
 * sollte man einen neuen abschnitt für projekte hinzufügen, gibt es einen p für projeknamen, oder soll man nur die gepris projekt id den jeweiligen personen zuordnen?
 * Wie sehen wir, ob wir die Berechtigungen für den Bot haben? Dauert es einfach nur lange?
 * Personen (Alexander Goesmann) haben über 250 Projekte - sollen alle hochgeladen werden?
+* Können bspw. bei Gepris und Orcid die gleichen Projekte auftauchen?
+* Welche IDs für Projekte nehmen wir (Gepris-Id und bspw.: bei Orcid DOI)
 
 
 ## TO Do:
