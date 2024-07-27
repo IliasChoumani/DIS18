@@ -1,0 +1,4645 @@
+{
+  "entities": {
+    "Q99534506": {
+      "pageid": 97452223,
+      "ns": 0,
+      "title": "Q99534506",
+      "lastrevid": 2125969400,
+      "modified": "2024-04-11T00:49:19Z",
+      "type": "item",
+      "id": "Q99534506",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "NFDI4Microbiota"
+        },
+        "de": {
+          "language": "de",
+          "value": "NFDI4Microbiota"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "NFDI4Microbiota"
+        },
+        "bar": {
+          "language": "bar",
+          "value": "NFDI4Microbiota"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "NFDI consortium for microbiota research data"
+        },
+        "de": {
+          "language": "de",
+          "value": "Nationale Forschungsdateninfrastruktur für Mikrobiota-Forschung (Lebenswissenschaften)"
+        }
+      },
+      "aliases": {},
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "607a32b2b9d145ff578910452b461cc47aea28ad",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 96678469,
+                  "id": "Q96678469"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$215ec281-4dc5-6e0c-8796-1cd5acd3f88a",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "e81510b4df2b68723eb46ba3b9753e1f06b33242",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 98270496,
+                  "id": "Q98270496"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$aa18ebdc-40f6-18aa-a6bc-0a81c5e82c07",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "94ddc112afae762c5ba5becff7ad2ba110cab08c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "93e4896e2265aa78cd729040346f1697bbef0342",
+                      "datavalue": {
+                        "value": "https://www.dfg.de/en/research_funding/programmes/nfdi/funded_consortia/index.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "1da6444a3b2008edd44c01a14736ddb97d4785c7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1298668,
+                  "id": "Q1298668"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$c0766db2-4bc6-23c4-62cf-b871f7f6a8f2",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "f821eb5e36c796902ab15b8bca03f98e91d97eb8",
+              "datavalue": {
+                "value": "https://nfdi4microbiota.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1860,
+                      "id": "Q1860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q99534506$4131e50d-4c79-7a5d-4b8a-24ddbf997a05",
+            "rank": "normal"
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "d9173f1421b7c054e0cc7492ed66210518d2ac8b",
+              "datavalue": {
+                "value": "nfdi4microbiota",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6552": [
+                {
+                  "snaktype": "value",
+                  "property": "P6552",
+                  "hash": "a26acaeb232c505de1697e730f7614667174dd13",
+                  "datavalue": {
+                    "value": "1126429093216620549",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "66d16d15afb9a5d83257061455cc790eddf2b9df",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "f2a04c4f9ed9438562e6f7da0e4630b5af466a61",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P6552",
+              "P580",
+              "P582"
+            ],
+            "id": "Q99534506$9a96c06d-49e6-22d5-1660-747ff0eef676",
+            "rank": "normal"
+          }
+        ],
+        "P361": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P361",
+              "hash": "afac7bfda89698bed230d7f4d4bb5c11b69e8487",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 61658497,
+                  "id": "Q61658497"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$4cc6eb05-4c08-3193-05dd-1e433026e150",
+            "rank": "normal"
+          }
+        ],
+        "P101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "169145c689b99bc71847233413636e2628ed87ee",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1438053,
+                  "id": "Q1438053"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$0a149227-43a1-8c80-21da-8f45318cef9f",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "29e43cbd58769ed759b7563efdf5a13dddabff3b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7193,
+                  "id": "Q7193"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$3b3af06f-4c92-5b3e-fd1a-edca0319bed5",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "98aa023fba993a9e7fed303e65f220d07dca14af",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 128570,
+                  "id": "Q128570"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$ce779be4-4ca1-713c-5a27-e375a971b582",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "203fdc06b727c09e6dcd85728e53c3019fbcc5d0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 420,
+                  "id": "Q420"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$d3df7101-4427-3376-374a-e39352afc31c",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "340700a76a3211d48501a0fbb94c464fc9aa7947",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 115433545,
+                  "id": "Q115433545"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$acb4ab66-4d66-e781-1089-b798731050fe",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "cbbb2a89fa3a8c828df8538ed7e71329e4cfd3f8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30089794,
+                  "id": "Q30089794"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$7a330c69-414c-5dee-7aae-6c3a8ca5d2cb",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "c0dadf7b62412c0b25155b493d7be6ce303d1d51",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 61658497,
+                  "id": "Q61658497"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$36aefd0a-41b7-3150-ccab-40235497f552",
+            "rank": "normal"
+          }
+        ],
+        "P859": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P859",
+              "hash": "0793b5664f4da2bae0d67245a14bfa2cdbfbb994",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 707283,
+                  "id": "Q707283"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q99534506$97040317-42d5-6935-5dcc-9a772cdb58a4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "313d3aae5fddd5603395f75d3c242a27860b3b0e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "989baad11d13c9270eae703a44b3d85b829fc9f7",
+                      "datavalue": {
+                        "value": "https://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "cb43c63b3c507b5c10658a2e70d85588ee238194",
+              "datavalue": {
+                "value": {
+                  "time": "+2021-10-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q99534506$447491cc-47e4-14de-135a-d1381684dfb6",
+            "rank": "normal"
+          }
+        ],
+        "P1416": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "2913f1e66e64818a5f9451cb1847b5700e171a9b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1204536,
+                  "id": "Q1204536"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "e9c536f698edb459b48e9bd10fa968022bc1097c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 54875338,
+                      "id": "Q54875338"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1875": [
+                {
+                  "snaktype": "value",
+                  "property": "P1875",
+                  "hash": "3dfe8318abbd260dd968162a6c96ade9b2bcd739",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 18744528,
+                      "id": "Q18744528"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831",
+              "P1875"
+            ],
+            "id": "Q99534506$ee5cc4e7-4e69-20de-c700-d046708fc590",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "d49582717ef6954ae28aadd3ddc859d7e29ca907",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 695267,
+                  "id": "Q695267"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "f469b322088d727d39e7a252bb0a3e6f878dd816",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906738,
+                      "id": "Q105906738"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$a321f6f3-4627-42f6-5d47-22d47eeb9fd1",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "4a4f65051252a3119a761a8c43aab3b16461280b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 154561,
+                  "id": "Q154561"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "f469b322088d727d39e7a252bb0a3e6f878dd816",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906738,
+                      "id": "Q105906738"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$622b1952-4662-ff5d-5c55-134dab9a8db2",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "d45710f7dbf5e877d3d209bb8262dae0714ad386",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1603242,
+                  "id": "Q1603242"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "f469b322088d727d39e7a252bb0a3e6f878dd816",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906738,
+                      "id": "Q105906738"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$a835ae3d-46ca-ab0b-9efb-880b2e1edf7c",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "34f61e1217dcd9bf4b012be0946adb3c853159a2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 880999,
+                  "id": "Q880999"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "f469b322088d727d39e7a252bb0a3e6f878dd816",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906738,
+                      "id": "Q105906738"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$1d1aad80-42d1-6071-d9c4-aeacb6db04e0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "06113ef7870853d1543dee89010095ceb5ee0898",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 317053,
+                  "id": "Q317053"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "f469b322088d727d39e7a252bb0a3e6f878dd816",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906738,
+                      "id": "Q105906738"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$2d929ffd-4ddf-a1eb-8d19-905e196c7d72",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "98e43446c1e2b08fca3e28e8f11f050142eb7efe",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1203864,
+                  "id": "Q1203864"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "f469b322088d727d39e7a252bb0a3e6f878dd816",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906738,
+                      "id": "Q105906738"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$ecbffad1-46f8-2b07-0b9b-e86ea4650f3f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "71e8a1dba14944618402b0731be757ea74dfabd1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 155354,
+                  "id": "Q155354"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "f469b322088d727d39e7a252bb0a3e6f878dd816",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906738,
+                      "id": "Q105906738"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$8a1c76f9-4551-7eb7-2a25-2a2c8d16609d",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "7ebadfc57ba0b3566373c760ceab00c23b83a7e6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 273263,
+                  "id": "Q273263"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "f469b322088d727d39e7a252bb0a3e6f878dd816",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906738,
+                      "id": "Q105906738"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$f815d1ea-44f8-dcb6-5158-1c3e2f6a9787",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "79b7c1f795700d43fe61a4160dcd8895c00a7146",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 24382,
+                  "id": "Q24382"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "f469b322088d727d39e7a252bb0a3e6f878dd816",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906738,
+                      "id": "Q105906738"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$6b310753-4697-3d0e-b734-babd27cda4a9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "9aabf0eea3d95e4dbf37c6a147b50f0ef4c4ced9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 156737,
+                  "id": "Q156737"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$03100269-48a2-7c73-618f-7e7f99c88c50",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "27de5d55198648c1858d876cfbfc0ac330ded038",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 157332,
+                  "id": "Q157332"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$9fe79ca4-4cea-9c72-2cd3-fd1b03238f7f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "4484a8163b4b9980769fe73b7476be19b95b0cd9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 697111,
+                  "id": "Q697111"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$0b8b3017-4d91-d58d-fa41-58193b9026d7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "b52e452ccab3c652b50f047b01b4da128698b185",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 161057,
+                  "id": "Q161057"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$8c31db3d-419b-e223-e351-21d9f2509723",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "6f7bcca5a3f0336c45a013650d59f11ae12c94f1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1452021,
+                  "id": "Q1452021"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$0f53880e-4109-5b98-74aa-7ea232ae49a5",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "aba193ddc407ac89bdb27270e021b9ffdfb35b71",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 40025,
+                  "id": "Q40025"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$ce62df05-465d-2e87-2bd1-a95991c8131f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "cde609d2bdd4b5a5ae41b7367162598a3f884f43",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 323945,
+                  "id": "Q323945"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$fe5ad07f-4aa4-3700-08a0-678a0c96f970",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "2c588e6f894841df9b862dfe92f75fefb1a27ef8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 152838,
+                  "id": "Q152838"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$439de901-4101-3228-d366-63639a532917",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "34d754532726549277cf9cc8b6d6e86f733e587a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 50662,
+                  "id": "Q50662"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$97e26236-4e68-33d0-7c3e-84575b1e22ef",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "eacba6defa77865fecf64fe2421557e637751975",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 317032,
+                  "id": "Q317032"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$a63e0d1c-4af3-66d4-709e-7e51b38425ff",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "e0223b8732891fd55057b04462b6f236491e27e6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 878592,
+                  "id": "Q878592"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$aa109fd9-439d-30bf-0120-3d00f8b58471",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "33445387deeb217a856bbb9f03f86c336784c183",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1205654,
+                  "id": "Q1205654"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$98b76631-4f75-1a2d-8315-a8b891655321",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "e5aa92bda7af03fe6c6a2a346f7c83e852810e0a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 161976,
+                  "id": "Q161976"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$39a2cd41-4098-f81e-27a3-9f6a4e1df9c7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "51d75799950e89c80ec08dda37084e303d494a29",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 309988,
+                  "id": "Q309988"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$2ce2df0c-4648-46ea-4a1c-397570e259a5",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "6e1efc0dff5c3c676f8abd4ad115e7e1be2f6fc1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2399120,
+                  "id": "Q2399120"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$a77cb642-4b82-6298-c3a1-e1f661f84569",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "e164e49234e3fc6a9a003fdd6854d3f111d3e746",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1743407,
+                  "id": "Q1743407"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$d4d32fdd-4d12-1a5e-5e1a-6b4f805deeeb",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "523acfb721e2da5a80fc668122f6c4d88fe5304c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1813732,
+                  "id": "Q1813732"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$9ee40a4b-4ac1-9857-8c28-a9c2a724f7c3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "4f71018e5b44ab1075a9ef35564c73226333b3e3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1813751,
+                  "id": "Q1813751"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$f0bc699f-4a81-7520-b8c4-357a1ce3bed0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "db56a239399cb6336b0b314c981f6c8911e78c26",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 55044,
+                  "id": "Q55044"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$087a2070-4543-4adf-a276-31e3c5eccb5b",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "5f4309ed06862d6231eb2eb6c3e0ad11e1910003",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 32120,
+                  "id": "Q32120"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$a7813b2c-448c-ad06-9575-b4b5a80729c6",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "525067174c02ff907616a93ea19b7f36b7e75912",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1912019,
+                  "id": "Q1912019"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$36f39ad9-4f64-53b1-d96c-d3c8750531fc",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "1c3ed032136f34f6c93095a4384e9583482131c3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 158085,
+                  "id": "Q158085"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$9c86c96d-4e6c-71a2-1fe3-7ed0d2acd6c0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "41bbdb2bc6be50672107f1d905fca7366b791606",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 255876,
+                  "id": "Q255876"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$597453f0-48ca-6d4e-bae0-878d06e5b708",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "598f26b0a040ec4727626e7a092d3b1d56c004f0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1438623,
+                  "id": "Q1438623"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$103312a1-4353-d7bb-c872-ce9dcc39553e",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "ddaadaceeee6baec68be15d9716bf25cf37e56a7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 876880,
+                  "id": "Q876880"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$77907a95-4140-0265-bb1f-d39f4fb14000",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "1b50fa880675a0f0ce7a7315ee2cdebbf8c31cfa",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 880933,
+                  "id": "Q880933"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$816507d5-4918-4249-c181-4e4b77f848eb",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "a07233b5a1c1b98eed7dc37ebd379b00c72d8fa0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 655866,
+                  "id": "Q655866"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$a67d40f1-4d7c-9474-3f4d-848cebd4945f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "9afda03cd117106de4015d5cc5290d9b8ebbf482",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 152171,
+                  "id": "Q152171"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$e5067063-4b91-998f-d5d7-adbc5c7c2615",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "e1a4b836fd6fc677337ebd098b1e24943259f552",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 679041,
+                  "id": "Q679041"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$5d481769-4fc5-d21e-5cd0-274914d164d0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "575630bdf30927a8cb9cf76f4a82da0469399023",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 309948,
+                  "id": "Q309948"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$192761d8-4cb8-03e6-7a3d-aad58bb1ef61",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "ed58df46a41642c84b13602abe7c908e7e560820",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 54166,
+                  "id": "Q54166"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$91c87e35-4c1d-ae3c-ae22-6309a6707762",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "7aa80db521d0be33a3c6f31fa7ef0423c9a7316e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 310695,
+                  "id": "Q310695"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$0e7d99dc-4ca0-e015-75a1-a32e59cf4798",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "9f59097c751c82e185dbaee5cfe080af04b3583d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 157808,
+                  "id": "Q157808"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$6fb4fa24-4706-59a2-a8fa-8db8a3976f93",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "f680cde23676278157772fa7c44f95f9ec2207df",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 696757,
+                  "id": "Q696757"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$19ada653-4ec6-4c43-0f64-06478a11109c",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "aa7510e8ea08730ab6ab13b6f3a40621b1b45f1d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 165528,
+                  "id": "Q165528"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$e0fad52e-4cd8-3066-e491-221068143933",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "f9b8ff0235e3f965161ef76a28763aa8aff112e7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 156725,
+                  "id": "Q156725"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$df65182f-4159-8326-2212-68c398c22a4d",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "b1008d9b17bff743b596798900dc9924e09ff19e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 835662,
+                  "id": "Q835662"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$0600d085-4781-5ae5-a758-69a203be5d56",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1416",
+              "hash": "997ee0a35665bcdb51c0e6701c2c85e6b2402211",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 54096,
+                  "id": "Q54096"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "6d499c5f1554745bdc65ae7fabcd85db3a936d75",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 105906860,
+                      "id": "Q105906860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q99534506$0a0b3991-4636-d57a-c81d-f7f304809836",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P4870": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4870",
+              "hash": "63e2266137f96e1b8ec36ed15f058c493af3b71f",
+              "datavalue": {
+                "value": "460129525",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q99534506$473dacc8-495a-089b-e414-ab45a1d555cb",
+            "rank": "normal"
+          }
+        ],
+        "P968": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P968",
+              "hash": "8975e5e57c7cf038b5c1b85fc9329b514bd3f48e",
+              "datavalue": {
+                "value": "mailto:contact@nfdi4microbiota.de",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q99534506$daa64763-4152-d537-54f4-0052c5be0306",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "cbdfeeacc7b06f7343c75bd58e976cd8f1656d5f",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "33a206c24a5c77571bc957d18c45f3d73c9019ef",
+                      "datavalue": {
+                        "value": "https://nfdi4microbiota.de/index.php/contact/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P488": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P488",
+              "hash": "0d4bd0e37dd768647151623b9d928adf09c0745d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 18744528,
+                  "id": "Q18744528"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "0de5a48a4e23baed5d21d0a57d663caf8c09674e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-10-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q99534506$D87263E2-775C-491F-A10D-6C850ABA3315",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "313d3aae5fddd5603395f75d3c242a27860b3b0e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "989baad11d13c9270eae703a44b3d85b829fc9f7",
+                      "datavalue": {
+                        "value": "https://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P9934": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9934",
+              "hash": "025e4fd4a78641782052586de2a1058954750069",
+              "datavalue": {
+                "value": "nfdi4microbiota",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q99534506$11408672-4add-f2dc-2b0f-b031beb9d9dc",
+            "rank": "normal"
+          }
+        ],
+        "P710": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "b7b2a2c79d2c894b11777d2b28dcb6679ea5cb72",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 18744528,
+                  "id": "Q18744528"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "72c9efc1a4dcdb860d392a1b9c8a9bba786f992b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17221,
+                      "id": "Q17221"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1268": [
+                {
+                  "snaktype": "value",
+                  "property": "P1268",
+                  "hash": "6e57fa64ed102707c5a657797e1d72601e30c608",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1204536,
+                      "id": "Q1204536"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868",
+              "P1268"
+            ],
+            "id": "Q99534506$e827e041-4a51-d316-f49b-ed87f42e5211",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "4898f6a07acfe5b231eedf4af239a177ce064695",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 21253882,
+                  "id": "Q21253882"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "ca34c6789c3b0bb3389b23ab76c033cbda9ab80f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 111353657,
+                      "id": "Q111353657"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868"
+            ],
+            "id": "Q99534506$f13ec76a-4224-44cf-2c9a-02f35fe4311e",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "10ea31d66985028fbac1d95536e3d9bd54947b4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7160367,
+                  "id": "Q7160367"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "ca34c6789c3b0bb3389b23ab76c033cbda9ab80f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 111353657,
+                      "id": "Q111353657"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868"
+            ],
+            "id": "Q99534506$b307d754-4624-fcd4-202b-482afcbc6ccc",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "3728b8169ff28884baad5c972e0f35e91d4095eb",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 40442760,
+                  "id": "Q40442760"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "ca34c6789c3b0bb3389b23ab76c033cbda9ab80f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 111353657,
+                      "id": "Q111353657"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868"
+            ],
+            "id": "Q99534506$b5d17cb1-4c49-266d-3cbe-ab474857447b",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "6b89100f6bd8a1241e4b9858ccecc1f688acb54b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 52422599,
+                  "id": "Q52422599"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "ca34c6789c3b0bb3389b23ab76c033cbda9ab80f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 111353657,
+                      "id": "Q111353657"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868"
+            ],
+            "id": "Q99534506$d4a0698b-447f-0017-7a3c-91cc6a0c2e60",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "92720461b0d5c15f9c7b9eb5084b810892cd7a88",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 87730329,
+                  "id": "Q87730329"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "ca34c6789c3b0bb3389b23ab76c033cbda9ab80f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 111353657,
+                      "id": "Q111353657"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868"
+            ],
+            "id": "Q99534506$daa2ecc4-4c29-3428-37ac-00bd307adef7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "c8c2be89f9a9384075e481b042e2dd43d86395bf",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2646932,
+                  "id": "Q2646932"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "ca34c6789c3b0bb3389b23ab76c033cbda9ab80f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 111353657,
+                      "id": "Q111353657"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868"
+            ],
+            "id": "Q99534506$5b51901e-42c3-5c9c-f2d0-fbc905c7e2a8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "17a5a95cc1e63d8b8940f87e697d9305381b6030",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 47007256,
+                  "id": "Q47007256"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "ca34c6789c3b0bb3389b23ab76c033cbda9ab80f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 111353657,
+                      "id": "Q111353657"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868"
+            ],
+            "id": "Q99534506$a0fb5705-47f2-045e-a327-f3c6e28de937",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "3616ba08d6efad4f63e1a9e51a2c9d760000c77b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30420936,
+                  "id": "Q30420936"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "ca34c6789c3b0bb3389b23ab76c033cbda9ab80f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 111353657,
+                      "id": "Q111353657"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868"
+            ],
+            "id": "Q99534506$10d21fdf-4503-5140-04bf-de29fe17cd62",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "374384c253ec069535f3f69852b413ecffa9cdab",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 76583148,
+                  "id": "Q76583148"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "ca34c6789c3b0bb3389b23ab76c033cbda9ab80f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 111353657,
+                      "id": "Q111353657"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868"
+            ],
+            "id": "Q99534506$3ed6f8b2-4aa1-3659-54ae-6c132a4c0390",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "6607d18b6fd3ee166a35164a383385bac8b50b7e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 89498719,
+                  "id": "Q89498719"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "ca34c6789c3b0bb3389b23ab76c033cbda9ab80f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 111353657,
+                      "id": "Q111353657"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2868"
+            ],
+            "id": "Q99534506$defce70f-4d3c-64d5-5e44-f3c346c7be23",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "282016d37c463ee729b2132168cff8b42a96049c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f588251620eaadd345c016dd3c38ed7b8bdc3163",
+                      "datavalue": {
+                        "value": "http://gepris.dfg.de/gepris/projekt/460129525",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2037": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2037",
+              "hash": "f0260f577f7acfb288bc4a8e0a17a89f9a947dda",
+              "datavalue": {
+                "value": "NFDI4Microbiota",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q99534506$23ef8240-47b6-2f3d-b628-b003b56d6afb",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "01d14efe9bb55b7e5c51d4ce6ab74a16d93418a9",
+              "datavalue": {
+                "value": "Nfdi4microbiota Logo new.png",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q99534506$d394e82f-4431-d28c-d6fe-6e64b3a29fc6",
+            "rank": "normal"
+          }
+        ],
+        "P4033": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4033",
+              "hash": "939187662a794e164b0ba1088284831f22ce6c64",
+              "datavalue": {
+                "value": "nfdi4microbiota@nfdi.social",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "763f1c37d99d6738b31fd95226943e0f5e20f8cf",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-05-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1860,
+                      "id": "Q1860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P407"
+            ],
+            "id": "Q99534506$8794515e-4e21-79fc-dd4d-7b5c17bc94d6",
+            "rank": "normal"
+          }
+        ],
+        "P11971": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P11971",
+              "hash": "de0245a22f3d3e9c5b46f71675753969b6281a6e",
+              "datavalue": {
+                "value": "E4497",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q99534506$D9E444DC-A6A5-4613-ABC2-F70BE1EFA2C0",
+            "rank": "normal"
+          }
+        ],
+        "P4264": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4264",
+              "hash": "f4cdd346a3ab1c5f4965513fcd6f6e9067cdcee8",
+              "datavalue": {
+                "value": "nfdi4microbiota",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e18d3ba7a83b3a85bc3146e03813224f03817c66",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q99534506$4871b47b-4166-6fae-91f9-c147778a89f9",
+            "rank": "normal"
+          }
+        ],
+        "P8687": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "45e51411fef1c3e92e95dabacc86b17aebfc1d14",
+              "datavalue": {
+                "value": {
+                  "amount": "+141",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "939187662a794e164b0ba1088284831f22ce6c64",
+                  "datavalue": {
+                    "value": "nfdi4microbiota@nfdi.social",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "9d60d69fc8914e1e052163b51526bd50afbdf62b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-02-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q99534506$339A629C-9456-4CAD-84AD-601FAFAFC4F9",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "1fcc511deacfe4d594284dfec4a89dbf60ff301b",
+              "datavalue": {
+                "value": {
+                  "amount": "+145",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "939187662a794e164b0ba1088284831f22ce6c64",
+                  "datavalue": {
+                    "value": "nfdi4microbiota@nfdi.social",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "a238e7341c8aa9bed8f85acab644a10b14752adc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-03-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q99534506$7AC5CD86-AE90-464D-BF97-46FABBEFED15",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "d8947cb093c691d1e584ddf5e0f3c585db2272b2",
+              "datavalue": {
+                "value": {
+                  "amount": "+154",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "939187662a794e164b0ba1088284831f22ce6c64",
+                  "datavalue": {
+                    "value": "nfdi4microbiota@nfdi.social",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "607184846106e630f6f06910d2df74dca931b9f0",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-04-11T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q99534506$FFA49F33-4A77-47F8-811B-0D1B68D6876D",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "NFDI4Microbiota",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/NFDI4Microbiota"
+        }
+      }
+    }
+  }
+}
