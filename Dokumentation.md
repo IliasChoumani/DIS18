@@ -9,6 +9,7 @@ Dieses Projekt bietet eine Sammlung von Python-Tools zur Verarbeitung und Analys
 3. Herunterladen von JSON-Daten von Websites: Automatisches Herunterladen und Speichern von JSON-Daten für die spätere Verarbeitung.  
 4. Konvertieren von JSON-Daten in CSV: Umwandlung von JSON-Datenformaten in CSV zur weiteren Analyse und Verwendung.  
 5. Überprüfen der Existenz von Projekten in Wikidata: Validierung und Abgleich von Projektdaten zwischen Gepris und Wikidata.
+6. Kombinieren und Erweitern von JSON-Daten: Zusammenführen und Anreichern von JSON-Daten mit zusätzlichen Informationen (z.B. Q-IDs).
 
 
 ## Vorgehensweise
@@ -50,7 +51,17 @@ Beschreibung: Dieses Notebook enthält Skripte zur Überprüfung, ob bestimmte P
 #### Vorgehensweise
 Projektinformationen von Gepris laden.  
 Abgleich der Projekte mit Wikidata-Daten.  
-Ergebnisse der Überprüfung speichern und ausgeben.<br><br><br>  
+Ergebnisse der Überprüfung speichern und ausgeben.<br><br><br> 
+
+#### Kombinieren und Erweitern von JSON-Daten
+Notebook: json_convert.ipynb
+Beschreibung: Dieses Notebook kombiniert JSON-Daten aus verschiedenen Quellen, fügt zusätzliche Informationen (z.B. Q-IDs) hinzu und speichert die erweiterten Daten als neue JSON-Datei.
+#### Vorgehensweise
+Pfade zu den benötigten JSON-Dateien festlegen.  
+JSON-Dateien aus dem angegebenen Ordner laden und deren Inhalt kombinieren.  
+Bereinigen von Namen und Erstellen eines Mappings zwischen Namen und Q-IDs.  
+Hinzufügen der Q-ID-Informationen zu den kombinierten Daten.  
+Speichern der erweiterten Daten in einer neuen JSON-Datei.<br><br><br> 
 
 #### Instilationsanleitung
 Um Projekttools zu verwenden müssen vorab die richtigen Bibliotheken installiert sein. Dies kann durch Ausführen des folgenden Befehls in deinem Terminal erfolgen:   
