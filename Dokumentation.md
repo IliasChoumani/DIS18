@@ -16,7 +16,7 @@ Beschreibung: Dieses Notebook enthält Skripte zur Abfrage von Wikidata, um die 
 #### Vorgehensweise
 Verbindung zur Wikidata-API herstellen.  
 Abfrage nach Autoreninformationen durchführen.  
-QIDs der Autoren extrahieren und speichern. <br><br><br>
+QIDs der Autoren extrahieren und speichern.<br><br><br>
 
 #### Herunterladen von JSON-Daten
 Notebook: Wikidata_Json_Website_Download_erstmal_unrelevant.ipynb  
@@ -24,7 +24,7 @@ Beschreibung: Dieses Notebook bietet Funktionen zum Herunterladen von JSON-Daten
 #### Vorgehensweise
 Ziel-URLs definieren.  
 HTTP-Anfragen senden und JSON-Daten empfangen.  
-Heruntergeladene JSON-Daten speichern.  
+Heruntergeladene JSON-Daten speichern.<br><br><br> 
 
 #### Konvertieren von JSON-Daten in CSV
 Notebook: json_in_csv_Gepris_Projekte.ipynb  
@@ -32,7 +32,7 @@ Beschreibung: Dieses Notebook enthält Skripte zur Konvertierung von JSON-Datenf
 #### Vorgehensweise
 JSON-Daten laden.  
 JSON-Daten parsen und in tabellarisches Format umwandeln.  
-Daten als CSV-Datei speichern.  
+Daten als CSV-Datei speichern.<br><br><br>  
 
 #### Überprüfen der Existenz von Projekten in Wikidata
 Notebook: GuckenObProjekteInWikidataExistieren.ipynb  
@@ -40,7 +40,7 @@ Beschreibung: Dieses Notebook enthält Skripte zur Überprüfung, ob bestimmte P
 #### Vorgehensweise
 Projektinformationen von Gepris laden.  
 Abgleich der Projekte mit Wikidata-Daten.  
-Ergebnisse der Überprüfung speichern und ausgeben.  
+Ergebnisse der Überprüfung speichern und ausgeben.<br><br><br>  
 
 #### Extrahieren von Namen und Links von Projekten
 Notebook: Get_Names_Projekts_Links_Gepris.ipynb  
@@ -48,7 +48,7 @@ Beschreibung: Dieses Notebook extrahiert Namen und Links von Projekten aus Gepri
 #### Vorgehensweise
 Projektlisten von Gepris laden.  
 Projektnamen und Links extrahieren.  
-Ergebnisse speichern und ausgeben.  
+Ergebnisse speichern und ausgeben.<br><br><br> 
 
 
 #### Instilationsanleitung
