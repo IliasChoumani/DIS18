@@ -10,6 +10,7 @@ Dieses Projekt bietet eine Sammlung von Python-Tools zur Verarbeitung und Analys
 4. Konvertieren von JSON-Daten in CSV: Umwandlung von JSON-Datenformaten in CSV zur weiteren Analyse und Verwendung.  
 5. Überprüfen der Existenz von Projekten in Wikidata: Validierung und Abgleich von Projektdaten zwischen Gepris und Wikidata.
 6. Kombinieren und Erweitern von JSON-Daten: Zusammenführen und Anreichern von JSON-Daten mit zusätzlichen Informationen (z.B. Q-IDs).
+7. Einfügen der Daten in Wikidata
 
 
 ## Vorgehensweise
