@@ -18,6 +18,9 @@ Verbindung zur Wikidata-API herstellen.
 Abfrage nach Autoreninformationen durchführen.  
 QIDs der Autoren extrahieren und speichern.  
 
+
+
+         
 #### Herunterladen von JSON-Daten
 Notebook: Wikidata_Json_Website_Download_erstmal_unrelevant.ipynb  
 Beschreibung: Dieses Notebook bietet Funktionen zum Herunterladen von JSON-Daten von verschiedenen Websites.  
