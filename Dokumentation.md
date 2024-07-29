@@ -30,7 +30,7 @@ Ziel-URLs definieren.
 HTTP-Anfragen senden und JSON-Daten empfangen.  
 Heruntergeladene JSON-Daten speichern.<br><br><br> 
 
-#### Extrahieren von Namen und Links von Projekten
+#### Extrahieren von Namen und Links von Projekten aus Gepris
 Notebook: Get_Names_Projekts_Links_Gepris.ipynb  
 Beschreibung: Dieses Notebook extrahiert Namen und Links von Projekten aus Gepris und bereitet sie für die weitere Verwendung vor.  
 #### Vorgehensweise
@@ -45,6 +45,17 @@ Beschreibung: Dieses Notebook enthält Skripte zur Konvertierung von JSON-Datenf
 JSON-Daten laden.  
 JSON-Daten parsen und in tabellarisches Format umwandeln.  
 Daten als CSV-Datei speichern.<br><br><br>  
+
+#### Extrahieren von Forscherdaten aus Orcid
+Notebook: Get_Data_orcid  
+Beschriebung: Dieses Notebook ermittelt Informationen über Forschende aus Orcid und bereitet sie für die weiterverwendung vor. 
+#### Vorgehensweise
+Abfrage und Verarbeiten der Orcid Daten   
+Speichern der ORCID-Daten in JSON-Dateien  
+Extrahieren der Wissenschaftlichen Puplikation  
+Herausfinden der jeweiligen Arbeitsplätze und des Bildungswegs  
+
+
 
 #### Überprüfen der Existenz von Projekten in Wikidata
 Notebook: GuckenObProjekteInWikidataExistieren.ipynb  
