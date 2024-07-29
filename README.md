@@ -65,6 +65,10 @@ ____________________________________________
 * diese können wir dann der personenseite hinzufügen.
 
 * diese projektseiten kann man dann mit den personenseiten verknüpfen und die projekte in die personenseiten intigrieren. (dann haben wir unsere ersten aktualierten wikidata personeneinträge)  
-* Weiter ausbauen (promovierung weiter ausbauen)
+* Weiter ausbauen (promovierung weiter ausbauen
+
+## Letztes To-Do:
+Notebooks aufräumen und besser für leute von auserhalb verwendbar machen.   
+Neue Daten gewinnen. 
 
   
