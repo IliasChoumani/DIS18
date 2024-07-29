@@ -69,6 +69,9 @@ ____________________________________________
 
 ## Letztes To-Do:
 Notebooks aufräumen und besser für leute von auserhalb verwendbar machen.   
-Neue Daten gewinnen. 
+Neue Daten gewinnen:  
+Peer Bork Reparieren.  
+mit Peer review Orcid erweitern:  
+https://orcid.org/0000-0002-1481-2996
 
   
