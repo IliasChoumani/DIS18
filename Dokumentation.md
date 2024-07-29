@@ -64,7 +64,7 @@ Bereinigen von Namen und Erstellen eines Mappings zwischen Namen und Q-IDs.
 Hinzufügen der Q-ID-Informationen zu den kombinierten Daten.  
 Speichern der erweiterten Daten in einer neuen JSON-Datei.<br><br><br> 
 
-#### Json Dateien Automatisiert in Wikidata Hochlade
+#### Json Dateien Automatisiert in Wikidata Hochladen
 Notebook: WikidataUpload.ipynb  
 Beschreibung: Dieses Notebook lädt JSON Datein aus einem bestimmten Ordner Automatisiert in Wikidata hoch.
 #### Vorgehensweise
