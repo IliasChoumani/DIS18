@@ -64,6 +64,15 @@ Bereinigen von Namen und Erstellen eines Mappings zwischen Namen und Q-IDs.
 Hinzufügen der Q-ID-Informationen zu den kombinierten Daten.  
 Speichern der erweiterten Daten in einer neuen JSON-Datei.<br><br><br> 
 
+#### Json Dateien Automatisiert in Wikidata Hochlade
+Notebook: WikidataUpload.ipynb  
+Beschreibung: Dieses Notebook lädt JSON Datein aus einem bestimmten Ordner Automatisiert in Wikidata hoch.
+#### Vorgehensweise
+Pywikibot Installieren und Konfigurieren  
+Verbindung zu Wikidata erstellen   
+Funktion zum Erstellen und Bearbeiten von Items erstellen   
+alle JSON-Dateien im Verzeichnis verarbeiten<br><br><br>
+
 #### Instilationsanleitung
 Um Projekttools zu verwenden müssen vorab die richtigen Bibliotheken installiert sein. Dies kann durch Ausführen des folgenden Befehls in deinem Terminal erfolgen:   
 pip install -r requirements.txt  
