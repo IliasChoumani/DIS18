@@ -53,7 +53,7 @@ Beschriebung: Dieses Notebook ermittelt Informationen über Forschende aus Orcid
 Abfrage und Verarbeiten der Orcid Daten   
 Speichern der ORCID-Daten in JSON-Dateien  
 Extrahieren der Wissenschaftlichen Puplikation  
-Herausfinden der jeweiligen Arbeitsplätze und des Bildungswegs  
+Herausfinden der jeweiligen Arbeitsplätze und des Bildungswegs<br><br><br>
 
 
 
