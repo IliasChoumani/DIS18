@@ -8,6 +8,7 @@ setup(
         "beautifulsoup4",
         "requests",
         "pywikibot"
+        "wikidataintegrator"
     ],
     entry_points={
         'console_scripts': [
